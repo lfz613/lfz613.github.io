@@ -2,7 +2,7 @@
 title: "Organizational Behavior"
 collection: teaching
 type: "Undergraduate course"
-permalink:# /teaching/2014-spring-teaching-1
+permalink:#/teaching/2014-spring-teaching-1
 venue: #"University 1, Department"
 date: 2025SSpring, 2024Spring, 2023Spring
 location: #"City, Country"
