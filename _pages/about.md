@@ -14,7 +14,7 @@ I am Fangzhou Liu, an Assistant Professor of Management at Huazhong University o
 
 I am particularly passionate about interdisciplinary research, believing that groundbreaking innovations emerge at the rich intersections of different fields. By strategically integrating perspectives from psychology, information systems, and computer science, I try to develop research that seamlessly bridges theoretical insights with transformative, real-world applications.
 
-My scholarly work has been published in Proceedings of the National Academy of Sciences, Journal of Personality and Social Psychology, Human Resource Management, Human Relations, Harvard Business Review, and Management and Organizational Review etc. You can find my CV here: [Fangzhou Liu's CV](../assets/cv.doc)
+My scholarly work has been published in Proceedings of the National Academy of Sciences, Journal of Personality and Social Psychology, Human Resource Management, Human Relations, Harvard Business Review, and Management and Organizational Review etc. You can find my CV here: [Fangzhou Liu's CV](../assets/CV.pdf)
 
 You can reach me at liufangzhou@hust.edu.cn
 
