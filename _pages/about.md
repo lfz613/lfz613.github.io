@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academic personal websites"
+title: "Fangzhou Liu's Academic Personal Website"
 author_profile: true
 redirect_from: 
   - /about/
